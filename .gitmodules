@@ -1,0 +1,9 @@
+[submodule "oci-telemetry-esports-F122-client"]
+	path = oci-telemetry-esports-F122-client
+	url = https://github.com/oci-hpc/oci-telemetry-esports-F122-client
+[submodule "oci-telemetry-esports-F122-ingestor"]
+	path = oci-telemetry-esports-F122-ingestor
+	url = https://github.com/oci-hpc/oci-telemetry-esports-F122-ingestor
+[submodule "oci-telemetry-esports-F122-server"]
+	path = oci-telemetry-esports-F122-server
+	url = https://github.com/oci-hpc/oci-telemetry-esports-F122-server
