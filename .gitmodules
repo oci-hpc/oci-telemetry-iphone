@@ -1,9 +1,9 @@
-[submodule "oci-telemetry-esports-F122-client"]
+[submodule "oci-telemetry-iphone-client"]
 	path = oci-telemetry-iphone-client
-	url = https://github.com/oci-hpc/oci-telemetry-esports-F122-client
-[submodule "oci-telemetry-esports-F122-ingestor"]
+	url = https://github.com/oci-hpc/oci-telemetry-iphone-client
+[submodule "oci-telemetry-iphone-ingestor"]
 	path = oci-telemetry-iphone-ingestor
-	url = https://github.com/oci-hpc/oci-telemetry-esports-F122-ingestor
-[submodule "oci-telemetry-esports-F122-server"]
+	url = https://github.com/oci-hpc/oci-telemetry-iphone-ingestor
+[submodule "oci-telemetry-iphone-server"]
 	path = oci-telemetry-iphone-server
-	url = https://github.com/oci-hpc/oci-telemetry-esports-F122-server
+	url = https://github.com/oci-hpc/oci-telemetry-iphone-server
